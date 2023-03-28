@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZHJdh4gMf6DkJzdugpzi+KgMPoi6P3k+QNzDZ7pUwpfD4suBQnmH0U8d0upwmoayil1AlecusYwo+X6adNlrQ==",
+  "success": true,
+  "projectFilePath": "/Users/anoopreddi/Desktop/grpc_csharp/Shared/Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/anoopreddi/.nuget/packages/google.protobuf/3.22.1/google.protobuf.3.22.1.nupkg.sha512",
+    "/Users/anoopreddi/.nuget/packages/grpc.core/2.46.6/grpc.core.2.46.6.nupkg.sha512",
+    "/Users/anoopreddi/.nuget/packages/grpc.core.api/2.46.6/grpc.core.api.2.46.6.nupkg.sha512",
+    "/Users/anoopreddi/.nuget/packages/grpc.tools/2.53.0/grpc.tools.2.53.0.nupkg.sha512",
+    "/Users/anoopreddi/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/bin/Debug/net7.0/Shared.deps.json
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/bin/Debug/net7.0/Shared.dll
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/bin/Debug/net7.0/Shared.pdb
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/obj/Debug/net7.0/Shared.csproj.AssemblyReference.cache
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/obj/Debug/net7.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/obj/Debug/net7.0/Shared.AssemblyInfoInputs.cache
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/obj/Debug/net7.0/Shared.AssemblyInfo.cs
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/obj/Debug/net7.0/Shared.csproj.CoreCompileInputs.cache
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/obj/Debug/net7.0/Shared.dll
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/obj/Debug/net7.0/refint/Shared.dll
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/obj/Debug/net7.0/Shared.pdb
+/Users/anoopreddi/Desktop/grpc_csharp/Shared/obj/Debug/net7.0/ref/Shared.dll
